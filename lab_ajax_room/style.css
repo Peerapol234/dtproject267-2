@@ -1,0 +1,25 @@
+.p1{
+    background-color:#3358ff;
+    color:white;
+    padding:20px 15px 10px 15px; /*ระยะห่างระหว่างขอบกับเนื้อหาด้านใน 
+    บน ขวา ล่าง ซ้าย*/
+    margin-bottom:0px;
+    border:solid 2px #FFFFFF;
+    border:redius:10px;
+}
+.content{
+    background-color:#9fecfc;
+    color:#3358ff;
+    padding:20px 30px 20px 30px;
+    margin-right:30px;
+    margin-left:30px;
+}
+.p2{
+    background-color:#3358ff;
+    color:white;
+    padding:20px 15px 10px 15px; /*ระยะห่างระหว่างขอบกับเนื้อหาด้านใน 
+    บน ขวา ล่าง ซ้าย*/
+    margin-bottom:0px;
+    border:solid 2px #FFFFFF;
+    border:redius:10px;
+}
